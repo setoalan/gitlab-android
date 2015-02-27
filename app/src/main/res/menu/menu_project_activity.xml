@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/add_issue_m"
+        android:icon="@android:drawable/ic_menu_add"
+        android:title="@string/add_issue"
+        android:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/create_milestone_m"
+        android:icon="@android:drawable/ic_menu_myplaces"
+        android:title="@string/create_milestone"
+        android:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/milestones_m"
+        android:icon="@android:drawable/ic_menu_my_calendar"
+        android:title="@string/view_milestones"
+        android:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/labels_m"
+        android:icon="@android:drawable/ic_menu_view"
+        android:title="@string/view_labels"
+        android:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/change_branch_m"
+        android:icon="@android:drawable/ic_menu_more"
+        android:title="@string/change_branch"
+        android:showAsAction="ifRoom" />
+
+</menu>

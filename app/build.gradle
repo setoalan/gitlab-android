@@ -1,0 +1,24 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 20
+    buildToolsVersion '20.0.0'
+    defaultConfig {
+        applicationId 'com.logicdrop.gitlab'
+        minSdkVersion 14
+        targetSdkVersion 20
+        versionCode 1
+        versionName '1.0'
+    }
+    packagingOptions {
+        exclude 'META-INF/ASL2.0'
+        exclude 'META-INF/LICENSE'
+        exclude 'META-INF/NOTICE'
+    }
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    compile project(':java-gitlab-api')
+    compile 'com.android.support:support-v4:20.0.0'
+}

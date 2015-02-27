@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/AlanSeto/Developer/GitLab-Android/app/build/intermediates/pre-dexed/debug/jackson-mapper-asl-1.9.9-64933a6c393dd739edc7dd61dd49e58928ed594b.jar"
+        jar="/Users/AlanSeto/.gradle/caches/modules-2/files-2.1/org.codehaus.jackson/jackson-mapper-asl/1.9.9/174678f285c155bea65c76ae9ac302f63b4aece1/jackson-mapper-asl-1.9.9.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="174678f285c155bea65c76ae9ac302f63b4aece1"/>
+    <item
+        dex="/Users/AlanSeto/Developer/GitLab-Android/app/build/intermediates/pre-dexed/debug/java-gitlab-api-e2a232cab6bf65f1ebee15dbb4c945b3f421c51c.jar"
+        jar="/Users/AlanSeto/Developer/GitLab-Android/java-gitlab-api/build/libs/java-gitlab-api.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="840dc7e22f9f77dd50e5d30c1c96a522c65a0240"/>
+    <item
+        dex="/Users/AlanSeto/Developer/GitLab-Android/app/build/intermediates/pre-dexed/debug/support-annotations-20.0.0-4c520c46b88325b3ce0e42558afffdb9b2ecbe2f.jar"
+        jar="/Applications/Android Development Tools/sdk/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
+    <item
+        dex="/Users/AlanSeto/Developer/GitLab-Android/app/build/intermediates/pre-dexed/debug/classes-fa1e471e345a53a2ff7b0a62888217aea75c5238.jar"
+        jar="/Users/AlanSeto/Developer/GitLab-Android/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+    <item
+        dex="/Users/AlanSeto/Developer/GitLab-Android/app/build/intermediates/pre-dexed/debug/jackson-core-asl-1.9.9-fa81bc5e8c5a8e60c7982b42c1f07411a75974f9.jar"
+        jar="/Users/AlanSeto/.gradle/caches/modules-2/files-2.1/org.codehaus.jackson/jackson-core-asl/1.9.9/b198f9d20dcc5bd2fe211e10f4110639b8243d6/jackson-core-asl-1.9.9.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="0b198f9d20dcc5bd2fe211e10f4110639b8243d6"/>
+    <item
+        dex="/Users/AlanSeto/Developer/GitLab-Android/app/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-d53f5e0190dad691a2c5acedf2712a82174cfe5d.jar"
+        jar="/Users/AlanSeto/Developer/GitLab-Android/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+    <item
+        dex="/Users/AlanSeto/Developer/GitLab-Android/app/build/intermediates/pre-dexed/debug/commons-io-1.4-0f5c149ab135bf201d330d37b6715d6dde882734.jar"
+        jar="/Users/AlanSeto/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/1.4/a8762d07e76cfde2395257a5da47ba7c1dbd3dce/commons-io-1.4.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="a8762d07e76cfde2395257a5da47ba7c1dbd3dce"/>
+
+</pre-dex-items>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/create_project_m"
+        android:title="@string/create_project"
+        android:icon="@android:drawable/ic_menu_add"
+        android:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/logout_m"
+        android:title="@string/log_out"
+        android:showAsAction="ifRoom" />
+
+</menu>

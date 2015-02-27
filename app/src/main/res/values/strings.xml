@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GitLab</string>
+    <string name="create_project">Create Project</string>
+    <string name="edit_issue">Edit Issue</string>
+    <string name="add_comment">Add Comment</string>
+    <string name="add_issue">Add Issue</string>
+    <string name="zoom_out">Zoom Out</string>
+    <string name="log_out">Log Out</string>
+    <string name="create_milestone">Create Milestone</string>
+    <string name="zoom_in">Zoom In</string>
+    <string name="short_id">Short ID</string>
+    <string name="iid">IID</string>
+    <string name="project_name">Project Name</string>
+    <string name="required">required</string>
+    <string name="new_path">New Path</string>
+    <string name="view_milestones">View Milestones</string>
+    <string name="issue_id">Issue ID</string>
+    <string name="issue_num">Issue #</string>
+    <string name="merge_request_num">Merge Request #</string>
+    <string name="title">Title</string>
+    <string name="last_activity">Last Activity</string>
+    <string name="view_labels">View Labels</string>
+    <string name="sign_in">Sign In</string>
+    <string name="description">Description</string>
+    <string name="change_branch">Change Branch</string>
+    <string name="state">State</string>
+    <string name="state_open_closed">State (open/closed)</string>
+    <string name="host_url">Hose URL</string>
+    <string name="author">Author</string>
+    <string name="due_date">Due Date</string>
+    <string name="date">Date</string>
+    <string name="username_or_email">Username or Email</string>
+    <string name="milestone">Milestone</string>
+    <string name="labels_separated">Labels (Separated with commas)</string>
+    <string name="assignee">Assignee</string>
+    <string name="log_in_token">Log in using private token</string>
+    <string name="labels">Labels</string>
+    <string name="update">Update</string>
+    <string name="private_token">Private Token</string>
+    <string name="password">Password</string>
+
+</resources>
